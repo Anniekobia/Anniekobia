@@ -2,7 +2,7 @@
 
 👩‍💻   I'm a Mobile Application Developer (Kotlin)
 
-🛠️   I create tech content on [The Techie Garage YouTube Channel](https://www.youtube.com/@thetechiegarage). You can find related repositories on [The Techie Garage GitHub Org](https://github.com/TheTechieGarage)
+🛠️   I create tech content on [The Techie Garage YouTube Channel](https://www.youtube.com/@thetechiegarage). Find related repositories on [The Techie Garage GitHub Org](https://github.com/TheTechieGarage)
  ![channels4_banner](https://github.com/user-attachments/assets/597255b6-ceda-4260-aaba-78a5cb66385a)
 
 ⚙️   I'm a huge fan of communities, and actively organize [Droidcon Kenya Conference](https://droidcon.co.ke/)
